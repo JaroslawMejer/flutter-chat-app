@@ -1,16 +1,19 @@
-# flutter_chat
+# Flutter Chat App
 
-A new Flutter application.
+Chat app writen in Flutter.
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+- For Windows - https://flutter.dev/docs/get-started/install/windows
+- For macOS - https://flutter.dev/docs/get-started/install/macos
+- For Linux - https://flutter.dev/docs/get-started/install/linux
 
-A few resources to get you started if this is your first Flutter project:
+## Used technologies
+- Dart
+- Flutter
+- Firebase & Firestore
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Run
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Green arrow button in top navbar of Android Studio
+- or use command - flutter run
